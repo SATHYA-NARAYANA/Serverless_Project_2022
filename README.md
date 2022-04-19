@@ -3,7 +3,7 @@ First Serverless Project
 
 # Setting up environment for serverless Project
 # STAGE 1  
- # Download Node and Install from below URL
+ First you have to download Node and Install from below mentioned URL
 ``` 
 https://nodejs.org/en/download/
 ```
