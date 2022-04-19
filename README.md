@@ -57,7 +57,6 @@ An IAM user with administrator permissions is not the same thing as the AWS acco
 </p>
 
 # Step 8: Finally you have finished creating User
-   # NOTE : Do not share access key and Secrete key with any one 
 ```diff
 - Do not share access key and Secrete key with any one
 ```
