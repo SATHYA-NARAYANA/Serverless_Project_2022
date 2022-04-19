@@ -1,6 +1,12 @@
 # Serverless_Project_2022
 First Serverless Project
 
+# Setting up environment for serverless Project
+# STAGE 1  
+```
+  Download Node : https://nodejs.org/en/download/
+```
+
 <span style="color: green"> Some green text </span>
 ```diff
 - text in red
