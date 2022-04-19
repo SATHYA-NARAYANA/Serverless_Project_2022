@@ -79,7 +79,7 @@ Finally you have finished creating User
 </p>
 
 # STAGE 4
-   One access key is obtained we can configure serverless in our local system using command mentioned below.
+   Once access key is obtained we can configure serverless in our local system using command mentioned below.
   ```
   serverless config credentials --provider aws --key { } access_key --secret { }
   ```
