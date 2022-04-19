@@ -1,6 +1,10 @@
 # Serverless_Project_2022
 First Serverless Project
 
+<p style='color:red'>This is some red text.</p>
+<font color="red">This is some text!</font>
+These are <b style='color:red'>red words</b>.
+
 # Creating IAM User with access control:
 An AWS Identity and Access Management (IAM) user is an entity that you create in AWS to represent the person or application that uses it to interact with AWS. A user in AWS consists of a name and credentials.
 
