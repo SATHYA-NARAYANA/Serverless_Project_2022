@@ -12,7 +12,7 @@ https://nodejs.org/en/download/
 </p>
    
 # STAGE 2 
- # Download and Install Serverless using below Command 
+  Download and Install Serverless using below Command 
 ``` 
  npm install -g serverless
 ```
