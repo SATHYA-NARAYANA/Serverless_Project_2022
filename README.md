@@ -3,8 +3,9 @@ First Serverless Project
 
 # Setting up environment for serverless Project
 # STAGE 1  
+ # Download Node and Install from below URL
 ```
-  Download Node : https://nodejs.org/en/download/
+ https://nodejs.org/en/download/
 ```
 
 <span style="color: green"> Some green text </span>
