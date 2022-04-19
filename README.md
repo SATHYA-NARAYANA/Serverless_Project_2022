@@ -8,7 +8,7 @@ First Serverless Project
  https://nodejs.org/en/download/
 ```
 
-<span style="color: green"> Some green text </span>
+ 
 ```diff
 - text in red
 + text in green
@@ -58,6 +58,9 @@ An IAM user with administrator permissions is not the same thing as the AWS acco
 
 # Step 8: Finally you have finished creating User
    # NOTE : Do not share access key and Secrete key with any one 
+```diff
+- Do not share access key and Secrete key with any one
+```
 <p align="center">
      <img width="900" height="400" src="https://github.com/SATHYA-NARAYANA/Serverless_Project_2022/blob/main/IAM/8-%20download%20keys.png">
 </p>
