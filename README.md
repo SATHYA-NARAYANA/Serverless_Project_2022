@@ -69,6 +69,7 @@ An IAM user with administrator permissions is not the same thing as the AWS acco
 <p align="center">
      <img width="900" height="400" src="https://github.com/SATHYA-NARAYANA/Serverless_Project_2022/blob/main/IAM/8-%20download%20keys.png">
 </p>
+
 # STAGE 4
    One access key is obtained we can configure serverless in our local system using command mentioned below.
   ```
