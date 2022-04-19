@@ -73,7 +73,7 @@ An IAM user with administrator permissions is not the same thing as the AWS acco
 # STAGE 4
    One access key is obtained we can configure serverless in our local system using command mentioned below.
   ```
-   
+  serverless config credentials --provider aws --key { } access_key --secret { }
   ```
   
 <p align="center">
