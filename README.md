@@ -10,7 +10,7 @@ An IAM user with administrator permissions is not the same thing as the AWS acco
      <img width="900" height="400" src="https://github.com/SATHYA-NARAYANA/Serverless_Project_2022/blob/main/IAM/1.png">
 </p>
 
-# Step 2: Next Click on User 
+# Step 2: Next Click on Users 
 <p align="center">
      <img width="900" height="400" src="https://github.com/SATHYA-NARAYANA/Serverless_Project_2022/blob/main/IAM/2-click%20user.png">
 </p>
