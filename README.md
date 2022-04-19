@@ -11,23 +11,17 @@ https://nodejs.org/en/download/
      <img width="900" height="400" src="https://github.com/SATHYA-NARAYANA/Serverless_Project_2022/blob/main/Images/Serverless/1.png">
 </p>
    
-   # STAGE 2 
+# STAGE 2 
  # Download and Install Serverless using below Command 
 ``` 
- 
+ npm install -g serverless
 ```
 <p align="center">
      <img width="900" height="400" src="https://github.com/SATHYA-NARAYANA/Serverless_Project_2022/blob/main/Images/Serverless/2.png">
 </p>
 
- 
-```diff
-- text in red
-+ text in green
-! text in orange
-# text in gray
-@@ text in purple (and bold)@@
-```
+# STAGE 3
+ We need Access key and Secrete key of AWS to configure serverless in our local system. So that we no need to go every time ,manually to configure each and every steps.You can Create IAM users as Given Steps below  
 
 # Creating IAM User with access control:
 An AWS Identity and Access Management (IAM) user is an entity that you create in AWS to represent the person or application that uses it to interact with AWS. A user in AWS consists of a name and credentials.
